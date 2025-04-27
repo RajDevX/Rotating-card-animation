@@ -2,4 +2,4 @@
 <img src="./Raj.gif" alt="Raj">
 
 - [My Code](https://github.com/RajDevX/Rotating-card-animation.git)
-- [My Code](https://rajdevx.github.io/Rotating-card-animation/)
+- [Live](https://rajdevx.github.io/Rotating-card-animation/)
